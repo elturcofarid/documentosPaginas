@@ -14,3 +14,13 @@ https://clouding.io/hc/es/articles/360010289000-Balancear-servicio-web-con-HAPro
 
 datos para estaus
  http://IP_Publica_HAProxy:8083/stats, nos pedirá usuario y contraseña, indicaremos haproxy y balanceador.
+ 
+ 
+ Arrancar XAMPP
+ Sudo /opt/lampp/lampp start
+ 
+ Puesto de estatus del balanceador
+ 0.0.0:80863/stats
+ 
+ Iniciar o reiniciar balanceador
+ systemctl restart haproxy
