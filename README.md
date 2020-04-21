@@ -24,3 +24,10 @@ datos para estaus
  
  Iniciar o reiniciar balanceador
  systemctl restart haproxy
+ 
+ 
+ Instalar XAMPP
+ https://www.apachefriends.org/es/index.html
+ 
+ 
+ 
