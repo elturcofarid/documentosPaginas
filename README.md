@@ -31,3 +31,25 @@ datos para estaus
  
  
  
+ Configuraciòn balanceador
+ https://clouding.io/hc/es/articles/360010289000-Balancear-servicio-web-con-HAProxy-en-Ubuntu-18-04
+ 
+ 
+ listen balanceador
+	bind *:80
+	mode http
+	stats auth cda:cda
+	balance roundrobin
+	server frontend-01 192.168.0.111:80 check maxconn 4000 fall 3
+	server frontend-02 192.168.0.112:80 check maxconn 4000 fall 3
+	server frontend-03 192.168.0.113:80 check maxconn 4000 fall 3
+	server frontend-04 192.168.0.114:80 check maxconn 4000 fall 3
+
+listen stats
+	bind *:8083
+	mode http
+	stats enable
+	stats uri /stats
+	stats realm HAProxy\ Statistics
+	stats auth haproxy:balanceador
+ 
