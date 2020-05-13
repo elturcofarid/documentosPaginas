@@ -61,3 +61,6 @@ http://2much2learn.com/uploading-files-to-cloud-native-object-store-from-quarkus
 
 LDAP:
 http://somebooks.es/12-7-instalar-y-configurar-openldap-en-el-servidor-ubuntu/
+
+
+http://www.mastertheboss.com/jboss-server/jboss-security/configuring-ldap-based-authentication-with-elytron-on-wildfly
