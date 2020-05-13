@@ -64,3 +64,6 @@ http://somebooks.es/12-7-instalar-y-configurar-openldap-en-el-servidor-ubuntu/
 
 
 http://www.mastertheboss.com/jboss-server/jboss-security/configuring-ldap-based-authentication-with-elytron-on-wildfly
+
+e1NTSEF9czIxUGY3WGxBMTVNNjN6VFdweU5abzdWSVJ2M1RKamc=
+
