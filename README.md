@@ -56,5 +56,8 @@ listen stats
 
 
 
-MInio
+MInio:
 http://2much2learn.com/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/
+
+LDAP:
+http://somebooks.es/12-7-instalar-y-configurar-openldap-en-el-servidor-ubuntu/
