@@ -53,3 +53,8 @@ listen stats
 	stats realm HAProxy\ Statistics
 	stats auth haproxy:balanceador
  
+
+
+
+MInio
+http://2much2learn.com/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/
