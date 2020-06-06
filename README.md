@@ -72,3 +72,6 @@ http://www.mastertheboss.com/jboss-server/jboss-security/configuring-ldap-based-
 
 e1NTSEF9czIxUGY3WGxBMTVNNjN6VFdweU5abzdWSVJ2M1RKamc=
 
+INstallar mondgo DB
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
