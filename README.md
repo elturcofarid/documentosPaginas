@@ -75,3 +75,8 @@ e1NTSEF9czIxUGY3WGxBMTVNNjN6VFdweU5abzdWSVJ2M1RKamc=
 INstallar mondgo DB
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
+
+
+Installacion de Mysql
+https://www.digitalocean.com/community/tutorials/como-instalar-mysql-en-ubuntu-18-04-es
+
