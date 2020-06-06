@@ -84,3 +84,6 @@ Redis
 https://www.digitalocean.com/community/tutorials/como-instalar-y-proteger-redis-en-ubuntu-18-04-es
 
 
+Ziipkin como servicio
+https://computingforgeeks.com/install-zipkin-distributed-tracing-system-on-ubuntu-debian-centos/
+
