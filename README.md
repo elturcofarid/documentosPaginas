@@ -57,7 +57,12 @@ listen stats
 
 
 MInio:
-http://2much2learn.com/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/
+wget https://dl.min.io/server/minio/release/linux-amd64/minio
+chmod +x minio
+./minio server /mnt/data
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-object-storage-server-using-minio-on-ubuntu-18-04-es
+
 
 LDAP:
 http://somebooks.es/12-7-instalar-y-configurar-openldap-en-el-servidor-ubuntu/
